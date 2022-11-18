@@ -1,4 +1,1 @@
-node_modules
-*.log
-*/linuxDash.min.js.map
-temp
+.idea
